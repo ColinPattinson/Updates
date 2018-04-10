@@ -1,4 +1,4 @@
 ## Colin Pattinson Updates
 
-### Sprintnotes from working Parliament
+### UK Parliament Sprintnotes
 * [Sprint 37](1)
