@@ -1,7 +1,10 @@
-# Colin Pattinson Updates
+# Hello, I'm Colin
+
+I'm a Product Manager and have worked at the Ministry of Defence, Department of Health, Department for Work and Pensions and for UK Parliament.
+
 ![alt text](https://pbs.twimg.com/profile_images/925851460264497153/kC2NfI0T_200x200.jpg "Colin Pattinson")
 
-Hello, I'm Colin and I'm a Product Manager. This page is a collection of updates and posts from the past few years. You can also [find me on Twitter](https://twitter.com/ColinPattinson).
+This is a collection of updates and posts from the past few years. You can also [find me on Twitter](https://twitter.com/ColinPattinson).
 
 
 ### UK Parliament Sprintnotes
