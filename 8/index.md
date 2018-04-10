@@ -32,7 +32,7 @@ Random things we’ve learned or have been reading:
 * how Strava is [grassing on the US military](https://www.wired.com/story/strava-heat-map-military-bases-fitness-trackers-privacy/)
 * had a peek at [Govt.nz’s combined style and design guide](https://www.govt.nz/about/about-this-website/style-and-design/)
 * [WhatsApp use in India](https://www.buzzfeed.com/pranavdixit/older-indians-drive-millennials-crazy-on-whatsapp-this-is?utm_term=.qfQX3pkBQ#.umPaPQw6Y)
-* [redesigning train tickets] (http://sadhedgehog.com/2018/01/07/practically-redesigned-british-train-ticket/) 
+* [redesigning train tickets](http://sadhedgehog.com/2018/01/07/practically-redesigned-british-train-ticket/) 
 * Parliaments [publishing of activity via social media](http://www.democraticaudit.com/2014/02/26/parliaments-use-social-media-mainly-as-a-reporting-tool-rather-than-for-public-engagement/). Oldie
 * [debate and decisions by citizens about Brexit](https://www.involve.org.uk/2017/12/12/six-things-i-learnt-from-the-citizens-assembly-on-brexit/). Need to get public more involved and also show reason why of vote? 
 * Interesting suggestions on [how to fix Facebook and its effects on democracy](https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/)
