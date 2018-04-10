@@ -18,3 +18,11 @@ Hello, I'm Colin and I'm a Product Manager. This page is a collection of updates
 * [Sprint 39](3)
 * [Sprint 38](2)
 * [Sprint 37](1)
+
+### Blog Posts
+* [Links on our beta website](https://pds.blog.parliament.uk/2017/12/06/links-on-beta-parliament-uk/)
+* [Starting work on a procedure guide for MPs](https://pds.blog.parliament.uk/2017/09/25/starting-work-on-a-parliamentary-procedure-guide/)
+* [Parliamentary Product People](https://pds.blog.parliament.uk/2017/11/29/parliamentary-product-people/)
+* [Winning the IBM challenge with a Hoot](https://digitalhealth.blog.gov.uk/2016/12/20/ibm-challenge/)
+* [Six months as a business analyst in DH Digital](https://digitalhealth.blog.gov.uk/2016/10/12/business-analyst/)
+* [My life as a first year DaT fast streamer](https://digitalpeople.blog.gov.uk/2016/08/10/my-life-as-a-first-year-dat-fast-streamer/)
