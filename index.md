@@ -6,8 +6,8 @@ I'm a Product Manager and have worked at the Ministry of Defence, Department of 
 
 This is a collection of updates and posts from the past few years. You can also [find me on Twitter](https://twitter.com/ColinPattinson).
 
-
-### UK Parliament Sprintnotes
+### UK Parliament Fortnightly Updates
+I worked on building [the new website for Parliament](https://beta.parliament.uk/). These updates share what the team got up to and things we found interesting at the time.
 
 * [Sprint 48](12)
 * [Sprint 47](11)
