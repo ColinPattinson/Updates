@@ -8,7 +8,7 @@ Hi, I’m Colin a product manager working on [beta.parliament.uk](https://beta.p
 ##### What we’ve done
 Our firebreak between alpha and beta was wrapped up. Then we kicked off our first week of Written Questions and Answers Beta.
 
-Written Questions and Answers Beta began! Pic of the team in action - bit blurry soz.
+_Written Questions and Answers Beta began! Pic of the team in action - bit blurry soz._
 
 ![Day 2 of Beta with the team](https://pbs.twimg.com/media/DabmtvUWAAErC1E.jpg:small)
 
