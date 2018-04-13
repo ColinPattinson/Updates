@@ -19,7 +19,7 @@ I worked on building [the new website for Parliament](https://beta.parliament.uk
 * [Sprint 42](6): Wrapping up Members' activity discovery
 * [Sprint 41](5): Interviewing and research during discovery
 * [Sprint 40](4): Members' activity discovery kick-off
-* [Sprint 39](3): Accesibility reports, contact journey work, fixing bugs
+* [Sprint 39](3): Accessibility reports, contact journey work, fixing bugs
 * [Sprint 38](2): End of annual leave allowance ghost sprint
 * [Sprint 37](1): Roles and contact journey work
 
