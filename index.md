@@ -9,6 +9,7 @@ This is a collection of updates and posts from the past few years. You can also 
 ### UK Parliament Fortnightly Updates
 I worked on building [the new website for Parliament](https://beta.parliament.uk/). These updates share what the team got up to and things we found interesting at the time.
 
+* [Sprint 50](14): Written Q's and A's beta
 * [Sprint 49](13): Written Q's & A's beta kick-off
 * [Sprint 48](12): Peer portraits delivered
 * [Sprint 47](11): End of Members' activity alpha
@@ -24,6 +25,7 @@ I worked on building [the new website for Parliament](https://beta.parliament.uk
 * [Sprint 37](1): Roles and contact journey work
 
 ### Blog Posts
+* [Sharing what we do - how our team communicats its updates](https://pds.blog.parliament.uk/2018/04/27/sharing-what-we-do/)
 * [Links on our beta website](https://pds.blog.parliament.uk/2017/12/06/links-on-beta-parliament-uk/)
 * [Starting work on a procedure guide for MPs](https://pds.blog.parliament.uk/2017/09/25/starting-work-on-a-parliamentary-procedure-guide/)
 * [Parliamentary Product People](https://pds.blog.parliament.uk/2017/11/29/parliamentary-product-people/)
