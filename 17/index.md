@@ -32,7 +32,7 @@ Hi, I’m Colin a product manager working at the Department of Health and Social
 4. [CO-OP user research principles](https://digitalblog.coop.co.uk/2018/05/02/introducing-our-user-research-principles/) 
 5. Monzo [prototypes to help those with mental health conditions](https://monzo.com/blog/2017/01/27/designing-product-mental-health-mind/) 
 6. King's fund on [the dangers of using RoI](https://www.kingsfund.org.uk/blog/2018/04/return-investment-public-health?utm_source=twitter&utm_medium=social&utm_term=the King's fund) in justifying public health initiatives
-7. PM sets [4 grand challenges](https://www.gov.uk/government/speeches/pm-speech-on-science-and-modern-industrial-strategy-21-may-2018). AI & healthcare included as is healthy ageing. Execution will be the tricky part but plenty of incredible work to be done in health and social care.
+7. PM sets [4 grand challenges](https://www.gov.uk/government/speeches/pm-speech-on-science-and-modern-industrial-strategy-21-may-2018). AI & healthcare included as is healthy ageing.
 8. [Good explanation of what a design system is](http://bradfrost.com/blog/link/design-systems/)
 
 ## Shout out to others doing great stuff
