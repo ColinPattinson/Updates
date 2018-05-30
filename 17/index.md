@@ -15,6 +15,7 @@ Hi, I’m Colin a product manager working at the Department of Health and Social
 ## Friday
 - I had been fighting a cold since Tuesday but this day it really caught up with me. Tried to hide my spluttering.
 - Had a great chat with Dharmesh about our budding health product community. We’ve got an event on the 31st of May and talked about broader plans and where to take the community. Loads to think about.
+- [Nayeema](https://twitter.com/NayeemaC) also brought in bday cake, [an old fashioned social](https://oleandsteen.co.uk/collections/pastries-cakes/products/old-fashioned-social) and a bday card signed by the team! Delicious and fantastically kind! 
 - Another social care data project is on the cusp of getting on the way. I’ve volunteered to go help it get it off the ground. Lots of work in this area that I need to connect all the dots too.
 - Set in motion my first reverse mentoring session. Get the chance to discuss all things digital with someone more senior than myself. Excited by this! Look forward to sharing knowledge. 
 - Had lots of 1 to 1’s. Always good to hear about colleagues work and back stories.
