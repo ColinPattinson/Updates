@@ -7,6 +7,7 @@ I'm a Product Manager and have worked at the Ministry of Defence, Department of 
 This is a collection of updates and posts from the past few years. You can also [find me on Twitter](https://twitter.com/ColinPattinson).
 
 ### Department of Health and Social Care Weeknotes
+* [Weeknotes E03](18): Reverse mentoring and first Health Product People
 * [Weeknotes E02](17): Short working week and a bank holiday
 * [Weeknotes E01](16): My first week on the new job
 
