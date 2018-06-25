@@ -1,6 +1,6 @@
 # Hello, I'm Colin
 
-I'm a Product Manager and have worked at the Ministry of Defence, Department of Health, Department for Work and Pensions and for UK Parliament.
+I'm a Product Manager working at the Department of Health and Social Care. I have worked at the Ministry of Defence, Department of Health (before it became DHSC), Department for Work and Pensions and for UK Parliament.
 
 ![alt text](https://pbs.twimg.com/profile_images/925851460264497153/kC2NfI0T_200x200.jpg "Colin Pattinson")
 
