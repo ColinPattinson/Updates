@@ -1,7 +1,7 @@
 # Weeknotes E07
 Hi, I’m Colin a product manager working at the Department of Health and Social Care. Each week I’m going to keep a running update of the work I’ve done & things I’ve learned along the way.
 
-P. S. [We have vacancies! Come join the gang](https://t.co/aafdLyCyOK?amp=1)
+P. S. We have vacancies! Come join the gang as a [Product Manager](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmc2VhcmNoX3NsaWNlX2N1cnJlbnQ9MSZ1c2Vyc2VhcmNoY29udGV4dD01OTYxNTc1MSZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3QmY3NvdXJjZT1jc3FzZWFyY2gmb3duZXI9NTA3MDAwMCZqb2JsaXN0X3ZpZXdfdmFjPTE1ODg4ODkmb3duZXJ0eXBlPWZhaXImcmVxc2lnPTE1MzA3NDI2MzQtZGIyNzRhNWYyNzI5MWU3YjAwNzNmYWFlYTUxOTY3NzYwMTEyNzhhNg==) or [User Researcher](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnVzZXJzZWFyY2hjb250ZXh0PTU5NjE1NzUxJnNlYXJjaF9zbGljZV9jdXJyZW50PTEmcGFnZWNsYXNzPUpvYnMmb3duZXJ0eXBlPWZhaXImam9ibGlzdF92aWV3X3ZhYz0xNTg4ODkwJmNzb3VyY2U9Y3Nxc2VhcmNoJm93bmVyPTUwNzAwMDAmcmVxc2lnPTE1MzA3NDI2MzQtZGIyNzRhNWYyNzI5MWU3YjAwNzNmYWFlYTUxOTY3NzYwMTEyNzhhNg==)!
 
 ## My current priority:
 > Talk to teams who have requested help & see which is the most valuable and viable to help first.
