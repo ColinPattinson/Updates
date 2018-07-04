@@ -34,6 +34,7 @@ I worked on building [the new website for Parliament](https://beta.parliament.uk
 * [Sprint 37](1): Roles and contact journey work
 
 ### Blog Posts
+* [Service assessments in DHSC](https://digitalhealth.blog.gov.uk/2018/06/22/service-assessments-in-dhsc/)
 * [Sharing what we do - how our team communicates its updates](https://pds.blog.parliament.uk/2018/04/27/sharing-what-we-do/)
 * [Links on our beta website](https://pds.blog.parliament.uk/2017/12/06/links-on-beta-parliament-uk/)
 * [Starting work on a procedure guide for MPs](https://pds.blog.parliament.uk/2017/09/25/starting-work-on-a-parliamentary-procedure-guide/)
