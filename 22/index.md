@@ -40,6 +40,7 @@ P. S. [We have vacancies! Come join the gang](https://t.co/aafdLyCyOK?amp=1)
 - Chat with [Nayeema](https://twitter.com/nayeemac?lang=en)
 
 ## Tuesday
+- [nice view from health hq in the morning](https://twitter.com/ColinPattinson/status/1014046848892506112)
 - connecting the dots and sending out useful links I’ve read about over the weekend about how local government digital teams connect with central government
 - team planning
 - went to another directorates away day - walked into an ice breaker then stood at a market stall and offered advice to people. Hope I was some help
