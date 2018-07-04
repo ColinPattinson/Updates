@@ -61,3 +61,4 @@ Former colleagues in Parliament write updates on the work they are doing. They a
 - [The People team](https://ukparliament.github.io/sprintnotes.people/)
 - [The Outputs team](https://ukparliament.github.io/sprintnotes.outputs/)
 - [The Data and Search team](https://ukparliament.github.io/weeknotes.data-search/)
+- [Utilities team](https://medium.com/@gemmarogers1)
