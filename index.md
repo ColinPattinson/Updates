@@ -7,6 +7,7 @@ I'm a Product Manager working at the Department of Health and Social Care. I hav
 This is a collection of updates and posts from the past few years. You can also [find me on Twitter](https://twitter.com/ColinPattinson).
 
 ### Department of Health and Social Care Weeknotes
+* [Weeknotes E08](23): NHS app reviews and a new minister arrives
 * [Weeknotes E07](22): Healthy start beginnings
 * [Weeknotes E06](21): Keyholder reviewing 
 * [Weeknotes E05](20): Trip to Leeds, writing blog posts and attending events 
