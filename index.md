@@ -36,6 +36,7 @@ I worked on building [the new website for Parliament](https://beta.parliament.uk
 * [Sprint 37](1): Roles and contact journey work
 
 ### Blog Posts
+* [Health product people community: How to run a successful alpha phase](https://digitalhealth.blog.gov.uk/2018/07/06/health-product-people-how-to-run-a-successful-alpha/)
 * [Service assessments in DHSC](https://digitalhealth.blog.gov.uk/2018/06/22/service-assessments-in-dhsc/)
 * [Sharing what we do - how our team communicates its updates](https://pds.blog.parliament.uk/2018/04/27/sharing-what-we-do/)
 * [Links on our beta website](https://pds.blog.parliament.uk/2017/12/06/links-on-beta-parliament-uk/)
