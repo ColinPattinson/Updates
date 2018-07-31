@@ -7,6 +7,7 @@ I'm a Product Manager working at the Department of Health and Social Care. I hav
 This is a collection of updates and posts from the past few years. You can also [find me on Twitter](https://twitter.com/ColinPattinson).
 
 ### Department of Health and Social Care Weeknotes
+* [Weeknotes E11](26): Healthy Start advert closes
 * [Weeknotes E10](25): Healthy Start prep and supplier questions
 * [Weeknotes E09](24): Healthy Start advert goes live
 * [Weeknotes E08](23): NHS app reviews and a new minister arrives
