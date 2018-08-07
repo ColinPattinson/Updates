@@ -37,6 +37,8 @@ Hi, I’m Colin a product manager working at the Department of Health and Social
 - chasing various HR people. Repeatedly. This recruitment admin is as hard as I suspected it would be.
 
 ## What I've been reading
+This list is now quite a few weeks old! Sorry, I have a list of intersting things I've read and I'm going to do a bumper edition next week to clear house!
+
 1. [Citizens Advice go beyond branding things digital](https://wearecitizensadvice.org.uk/to-take-the-next-step-on-digital-we-dropped-the-word-digital-14b09ec2f25f) want to make the experience of using Citizens Advice as seamless, easy, and effective as possible.
 2. Australian Gov suggesting it needs [more in-house digital expertise and to out-source less](https://www.themandarin.com.au/95019-aps-must-stop-outsourcing-senate-digital-transformation-report/).
 3. Re-read this about [when to do research and the questions you should ask yourself](https://pds.blog.parliament.uk/2018/05/14/are-you-ready-for-user-research/) by excellent ex-colleague.
