@@ -7,6 +7,7 @@ I'm a Product Manager working at the Department of Health and Social Care. I hav
 This is a collection of updates and posts from the past few years. You can also [find me on Twitter](https://twitter.com/ColinPattinson).
 
 ### Department of Health and Social Care Weeknotes
+* [Weeknotes E15](30): Scoring suppliers and visiting City Hall
 * [Weeknotes E14](29): Job panel experience
 * [Weeknotes E13](28): Healthy Start potential name change
 * [Weeknotes E12](27): Healthy Start applications get sifted
