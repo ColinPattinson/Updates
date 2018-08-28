@@ -34,7 +34,7 @@ Hi, I’m Colin a product manager working at the Department of Health and Social
 - Wrote up chat and sent links/advice
 - We have our Healthy Start team day tomorrow. I pulled all the plans together and finalised the agenda. Going to be a fun day.
 - 1:1 with [Nayeema](https://twitter.com/NayeemaC?lang=en).
-- Adding to a colleagues “what to expect from an alpha” slide deck for teams new to an alpha. Has some great bits in it already. I added a tiny amount.
+- Adding to a colleagues “what to expect from an alpha” slide deck. Has some great bits in it already. I added a tiny amount.
 
 ## What I've been reading
 1. [Nature report on an app](https://www.nature.com/articles/s41746-018-0039-z) that is telling users health information they want to hear mean potentially meaning they are more likely to use and enjoy the service even though its inaccurate. Interesting and scary.
